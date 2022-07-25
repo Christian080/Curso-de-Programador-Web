@@ -1,0 +1,17 @@
+Aluno:Christian Alejandro de Souza Castillo
+Professor:Rodrigo
+Data:18/07/2022
+
+<!DOCTYPE html>  	<< É uma declaração para informar ao navegador qual é a versão do HTML utilizada no arquivo>>
+<html lang="pt-br"> 	<<O documento html começa com a tag HTML>> 
+
+<head> 			<<O cabeçalho é delimitado pela tag HEAD>>
+	<meta charset="UTF-8">
+	<meta name="viewpoint"content="width=device-width, initial-scale=1.0">	<<usado para o site ficar ajustavel para qualquer dispositivo que consiga entrar no site>>
+	<title>Document</title>		<<
+</head> 		<<O  final do cabeçalho e delimitado pela tag /HEAD>> 
+
+<body>			<<O corpo é delimitado pela tag BODY >>
+	<!-- Conteúdo -->
+</body>			<<O final do texto é delimitado pela tag /BODY>>
+</html>			<<Usado para delimitar o final do documento /HTML>>
