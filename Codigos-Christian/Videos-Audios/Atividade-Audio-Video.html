@@ -1,0 +1,78 @@
+<!DOCTYPE html>  
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewpoint"content="width=device-width, initial-scale=1.0">
+	<title>Video e audio</title>
+</head>
+
+    <h1>Atividade dos Audios</h1>
+
+        <body>
+            
+    <div>
+        <button onclick="document.getElementById('player1').play()"> ►</button>
+        <button  onclick="document.getElementById('player1').pause()"> װ </button>
+        <button onclick="document.getElementById1('player1').volume+=0.1"> +</button>
+        <button onclick="document.getElementById1('player1').volume-=0.1"> -</button>
+    </div>
+    
+    <audio id="player1" autoplay="autoplay" controls="contols">
+        <source src="Audios/Elevador.mp3" type="audio/mp3"/>
+        Seu navegador não suporta HTML5
+    </audio>
+
+            <br>
+            <br>
+     <div>
+            <button onclick="document.getElementById('player2').play()"> ►</button>
+            <button onclick="document.getElementById('player2').pause()"> װ </button>
+            <button onclick="document.getElementById('player2').volume+=0.1"> + </button>
+            <button onclick="document.getElementById('player2').volume-=0.1"> - </button>
+    </div>    
+        
+        <audio id="player2" autoplay="autoplay" controls="contols">
+            <source src="Audios/pagode.mp3" type="audio/mp3"/>
+        </audio>
+
+    
+            <br>
+            <br>
+        <div>
+            <button onclick="document.getElementById('player3').play()"> ►</button>
+            <button onclick="document.getElementById('player3').pause()"> װ </button>
+            <button onclick="document.getElementById('player3').volume+=0.1"> + </button>
+            <button onclick="document.getElementById('player3').volume-=0.1"> - </button>
+        </div>
+        
+        <audio id="player3" autoplay="autoplay" controls="contols">
+            <source src="Audios/Rock.mp3" type="audio/mp3"/>
+        </audio>
+            <br> 
+            <br>
+        <div>
+            <button onclick="document.getElementById('player4').play()"> ►</button>
+            <button onclick="document.getElementById('player4').pause()"> װ </button>
+            <button onclick="document.getElementById('player4').volume+=0.1"> + </button>
+            <button onclick="document.getElementById('player4').volume-=0.1"> - </button>
+        </div>
+        
+        <audio id="player4" autoplay="autoplay" controls="contols">
+            <source src="Audios/Sertanejo-Decida.mp3" type="audio/mp3"/>
+        </audio>
+    <br>
+    <br>
+    <video src="videos/Elevador-video.mp4" width="720" height="720" controls></video> <br>
+    <video src="videos/Teste1.mp4" width="720" height="720" controls></video> <br>
+    <video src="videos/Test2.mp4" width="720" height="720" controls></video> <br>
+    <video src="videos/Teste3.mp4" width="720" height="720"></video> <br>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gQxQ9K4gnn0" title="YouTube video player" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bpZeUrSkNNs" title="YouTube video player" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
+    </body>
