@@ -1,0 +1,205 @@
+@charset "utf-8"
+body{background-color: aquamarine;
+}
+ .div1{background-color:darkseagreen; 
+    width: 50%;
+    -webkit-box-shadow: 5px 7px 38px white; 
+}
+.div2{ background-color: orange;
+    width: 40%;
+    -webkit-box-shadow: 5px 7px 38px white;
+}
+.div3{background-color: yellow;
+   width: 50%;
+    -webkit-box-shadow: 5px 7px 38px white;
+}
+.div4{background-color: green;
+    width: 40%;
+     -webkit-box-shadow: 5px 7px 38px white;}
+.div5{background-color: blue;
+    width: 50%;
+    -webkit-box-shadow: 5px 7px 30px white;}
+ .div6{background-color: blueviolet ;
+      width: 40%;
+    -webkit-box-shadow: 5px 7px 30px white;}
+    .div7{background-color: pink;
+        width: 50%;
+        -webkit-box-shadow: 5px 7px 30px white;}
+    .div8{background-color: cyan;
+        width: 30%;
+       -webkit-box-shadow: 5px 7px 30px white;}
+   .div9{background-color:azure;
+        width: 30%;
+        -webkit-box-shadow: 5px 7px 30px white;}
+    .div10{background-color:cornflowerblue;
+            width: 30%;
+            -webkit-box-shadow: 5px 7px 30px white;}
+
+#h1{
+    background-color: burlywood;
+  
+    padding: 15px;
+    -webkit-background-origin: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    -webkit-box-shadow: 5px 7px 28px red ;
+    text-transform: uppercase ;
+    font-style: oblique;
+    margin: 50px;
+    text-decoration: line-through;
+}
+#h2{ -webkit-background-origin: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    -webkit-box-shadow: 5px 7px 28px chocolate ;
+    text-align: justify;
+    text-decoration: line-through;
+    text-transform: uppercase ;
+    text-decoration-color: cadetblue;
+    font-style: oblique;
+    color: beige ;
+background-color:brown;
+border: 10px solid blueviolet;
+padding: 5px;
+margin: 25px;;}
+ #h3{
+    -webkit-background-origin: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    -webkit-box-shadow: 5px 7px 28px chocolate ;
+    text-align: justify;
+    text-decoration: line-through;
+    text-transform: uppercase ;
+    text-decoration-color: coral;
+    font-style: oblique;
+    color: beige ;
+background-color: aquamarine;
+border: 10px solid red;
+padding: 5px;
+margin: 25px;
+
+}
+ #h4{   background-color:darkorchid;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+        margin: 50px;
+}
+#h5{    background-color:aqua;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+        margin: 50px;
+}
+#h6{    width: 200px;
+        height: 150px;
+        background-color:darkkhaki;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+    }
+#h7{    width: 200px;
+        height: 150px;
+        background-color:aliceblue;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+    }
+#h8{    width: 200px;
+        height: 150px;
+        background-color:darkseagreen;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+}
+#h9{    width: 200px;
+        height: 150px;
+        background-color:grey;
+        border: 20px dotted blueviolet;
+        padding: 15px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+    }
+#h10{   background-color:lightsalmon ;
+        border: 10px dotted blueviolet;
+        padding: 10px;
+        -webkit-background-origin: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        -webkit-box-shadow: 5px 7px 28px chocolate ;
+        text-align: center;
+        text-decoration: line-through;
+        text-transform: uppercase ;
+        text-decoration-color: coral;
+        font-style: oblique;
+        color: beige ;
+        margin: 50px;
+}
+#VF{ background-color:lightsalmon ;
+    border: 10px solid black;
+    padding: 15px;
+    -webkit-background-origin: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: uppercase ;
+    text-decoration-color: red;
+    font-style: oblique;
+    
+
+}
